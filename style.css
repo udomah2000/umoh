@@ -737,6 +737,10 @@ form .btn-class{
     .item-padding-bottom{
         padding-bottom:0 !important;
     }
+    .profile-image img{
+        width: 100% !important;
+    }
+    
         
 }
 
