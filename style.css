@@ -270,6 +270,14 @@
 .trans{
     transition: all 0.5s ease-in-out;
 }
+.colorBlack{
+    color: #000 !important;
+}
+
+.colorWhite{
+    color: #fff !important;
+}
+
 /*---------------x----------------- global css--------x---------- */
 /*------------------------ navbar------------------------ */
 .nav-class{

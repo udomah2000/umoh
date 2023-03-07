@@ -16,9 +16,10 @@ function myfunction() {
         navBg.classList.add('nav-scroll-bg')
         bg_icon.classList.add('bg-icon-color')
         bg_botton.classList.add('bg-icon-color-botton')
-        list.style.color = '#fff'
         borderChangeColor.classList.add('nav-btn-scroll')
         borderChangeColor.classList.add('btn-hover-on-scroll')
+        list.style.color = '#fff'
+
     }
     else {
         logo.innerHTML = logo.src = "./assets/Umoh-logo.png"
