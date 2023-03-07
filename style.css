@@ -740,6 +740,12 @@ form .btn-class{
     .profile-image img{
         width: 100% !important;
     }
+    .displayBlock span{
+        display: block !important;
+    }
+    .displayBlock .vr-border{
+        border: none !important;
+    }
     
         
 }
