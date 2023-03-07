@@ -1,0 +1,11 @@
+/* font-family: Clicker */
+@font-face{
+    font-family: Clicker;
+    src: url('../Fonts/Clicker_Script/ClickerScript-Regular.ttf');
+}
+
+/* font-family: Poppins */
+@font-face{
+    font-family: Poppins;
+    src: url('../Fonts/Poppins/Poppins-Regular.ttf');
+}
