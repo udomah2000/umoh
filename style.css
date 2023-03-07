@@ -350,7 +350,7 @@ color: var(--nav-body-text);
 /* ----------------carousel-------------- */
 .carousel_1{
 
-    background:url(../IMAGE/pic-1.jpg);
+    background:url(./assets/pic-1.jpg);
     background-color: #342628;
     background-repeat: no-repeat;
     background-size:cover;
@@ -360,7 +360,7 @@ color: var(--nav-body-text);
     padding: 10rem 9rem 15rem 9rem;
 }
 .carousel_2{
-    background:url(../IMAGE/pic-7.jpg);
+    background:url(./assets/pic-7.jpg);
     background-color: #342628;
     background-repeat: no-repeat;
     background-size: cover;
@@ -371,7 +371,7 @@ color: var(--nav-body-text);
 
 }
 .carousel_3{
-    background: url(../IMAGE/pic-12.jpg);
+    background: url(./assets/pic-12.jpg);
     background-color: #342628;
     background-repeat: no-repeat;
     background-size: cover;
@@ -624,7 +624,7 @@ form .btn-class{
 /* ---------------------footer------------ */
 .footer{
     background: var(--bg-gridiant);
-    background-image: url(../IMAGE/pic-11.jpg);
+    background-image: url(./assets/pic-11.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: soft-light;
