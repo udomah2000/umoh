@@ -12,7 +12,7 @@ const mybutton = document.querySelector(".myBtn");
 window.addEventListener('scroll', myfunction )
 function myfunction() {
     if (window.scrollY > 20) {
-        logo.innerHTML = logo.src = "../IMAGE/logo-color_2-removebg-preview.png"
+        logo.innerHTML = logo.src = "./assets/logo-color_2-removebg-preview.png"
         navBg.classList.add('nav-scroll-bg')
         bg_icon.classList.add('bg-icon-color')
         bg_botton.classList.add('bg-icon-color-botton')
@@ -21,7 +21,7 @@ function myfunction() {
         borderChangeColor.classList.add('btn-hover-on-scroll')
     }
     else {
-        logo.innerHTML = logo.src = "../IMAGE/Umoh-logo.png"
+        logo.innerHTML = logo.src = "./assets/Umoh-logo.png"
         navBg.classList.remove('nav-scroll-bg')
         bg_icon.classList.remove('bg-icon-color')
         bg_botton.classList.remove('bg-icon-color-botton')
