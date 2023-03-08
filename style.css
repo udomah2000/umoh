@@ -282,9 +282,14 @@
 /*------------------------ navbar------------------------ */
 .nav-class{
     background: var(--bs-body-bg) !important;
-    transition: all ease-in-out 0.5s !important;
+    transition: all ease-in-out 0.8s !important;
     position: fixed;
     width: 100%;
+
+}
+.media-bg{
+    background:#031633;
+
 }
 ul{
  transition: all ease-in-out 0.2s;
@@ -707,7 +712,6 @@ form .btn-class{
         text-align: left !important;
     }
     
-
     
     .flex_display,
     .grid-template_2,
@@ -745,6 +749,10 @@ form .btn-class{
     }
     .displayBlock .vr-border{
         border: none !important;
+    }
+    .nav-class{
+        opacity: 0.9;
+    
     }
     
         
